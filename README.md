@@ -1,5 +1,7 @@
 # ng-babylon
 
+Migration from Angular 10 to 11 (https://github.com/JohnnyDevNull/ng-babylon-template)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) and is designed as a basic template for [BabylonJS](https://www.babylonjs.com/) combined with [Angular](https://angular.io/) and [Bootstrap](https://getbootstrap.com/) in Version 4.0
 
 The project is setup to use global [SCSS](https://sass-lang.com/) only and [ViewEncapsulation.None](https://angular.io/api/core/ViewEncapsulation).
